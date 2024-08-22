@@ -13,11 +13,11 @@ _Please be more tolerant_ : )
 #### Zirconium with tools and armors
 #### Random entities stick(can spawn The vast majority of entities)
 ## BLOCKS
-#### Tianium block and raw titanium block
-#### Tianium ore, deepslate and titanium ore
+#### Titanium block and raw titanium block
+#### Titanium ore, deepslate and titanium ore
 #### Zirconium block
 #### Zirconium ore and deepslate zirconium ore
 ## ENCHANTMENT
 #### Frost(Able to slow down target)
-#### Damnation(Spawn some lightbolt at position of target)
+#### Damnation(Spawn some light bolt at position of target)
 _enjoy the mod!_ : )
