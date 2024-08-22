@@ -20,3 +20,4 @@ _Please be more tolerant_ : )
 ## ENCHANTMENT
 #### Frost(Able to slow down target)
 #### Damnation(Spawn some lightbolt at position of target)
+_enjoy the mod!_ : )
