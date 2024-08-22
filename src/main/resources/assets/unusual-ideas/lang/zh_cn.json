@@ -1,0 +1,37 @@
+{
+  "item.unusual-ideas.test_item": "测试用物品（也就是写代码测试后懒得删了......）",
+  "item.unusual-ideas.another_test_item": "另一个测试用物品（也就是写代码测试后懒得删了......）",
+  "item.unusual-ideas.zirconium": "锆石",
+  "item.unusual-ideas.zirconium_pickaxe": "锆石镐",
+  "item.unusual-ideas.zirconium_sword": "锆石剑",
+  "item.unusual-ideas.zirconium_axe": "锆石斧",
+  "item.unusual-ideas.zirconium_shovel": "锆石铲",
+  "item.unusual-ideas.zirconium_hoe": "锆石锄",
+  "item.unusual-ideas.zirconium_helmet": "锆石头盔",
+  "item.unusual-ideas.zirconium_chestplate": "锆石胸甲",
+  "item.unusual-ideas.zirconium_leggings": "锆石护腿",
+  "item.unusual-ideas.zirconium_boots": "锆石靴子",
+  "item.unusual-ideas.titanium_ingot": "钛锭",
+  "item.unusual-ideas.raw_titanium": "粗钛矿",
+  "item.unusual-ideas.titanium_pickaxe": "钛镐",
+  "item.unusual-ideas.titanium_sword": "钛剑",
+  "item.unusual-ideas.titanium_axe": "钛斧",
+  "item.unusual-ideas.titanium_shovel": "钛铲",
+  "item.unusual-ideas.titanium_hoe": "钛锄",
+  "item.unusual-ideas.titanium_helmet": "钛头盔",
+  "item.unusual-ideas.titanium_chestplate": "钛胸甲",
+  "item.unusual-ideas.titanium_leggings": "钛护腿",
+  "item.unusual-ideas.titanium_boots": "钛靴子",
+
+  "block.unusual-ideas.zirconium_block": "锆石块",
+  "block.unusual-ideas.zirconium_ore": "锆石矿",
+  "block.unusual-ideas.deepslate_zirconium_ore": "深层锆石矿",
+  "block.unusual-ideas.titanium_block": "钛块",
+  "block.unusual-ideas.raw_titanium_block": "粗钛块",
+  "block.unusual-ideas.titanium_ore": "钛矿",
+  "block.unusual-ideas.deepslate_titanium_ore": "深层钛矿",
+
+  "enchantment.unusual-ideas.frost_enchantment": "冻结",
+
+  "itemGroup.unusualIdeas": "一些奇奇怪怪的东西"
+}

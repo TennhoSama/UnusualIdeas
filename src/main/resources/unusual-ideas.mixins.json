@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "name.unusualideas.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+      "UnusualIdeasMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

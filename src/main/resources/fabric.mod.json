@@ -1,0 +1,39 @@
+{
+	"schemaVersion": 1,
+	"id": "unusual-ideas",
+	"version": "${version}",
+	"name": "Unusual ideas",
+	"description": "Some unusual but interesting ideas.",
+	"authors": [
+		"天方Sama_tennho"
+	],
+	"contact": {
+		"sources": "https://github.com/TennhoSama/unusual_ideas"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/unusual-ideas/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"name.unusualideas.UnusualIdeas"
+		],
+		"client": [
+			"name.unusualideas.UnusualIdeasClient"
+		],
+		"fabric-datagen": [
+			"name.unusualideas.UnusualIdeasDataGenerator"
+		]
+	},
+	"mixins": [
+		"unusual-ideas.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

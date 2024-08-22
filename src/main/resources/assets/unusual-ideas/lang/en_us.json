@@ -1,0 +1,37 @@
+{
+  "item.unusual-ideas.test_item": "test item（It's just that I didn't bother to delete it after testing......）",
+  "item.unusual-ideas.another_test_item": "another test item（It's just that I didn't bother to delete it after testing too......）",
+  "item.unusual-ideas.zirconium": "zirconium",
+  "item.unusual-ideas.zirconium_pickaxe": "zirconium pickaxe",
+  "item.unusual-ideas.zirconium_sword": "zirconium sword",
+  "item.unusual-ideas.zirconium_axe": "zirconium axe",
+  "item.unusual-ideas.zirconium_shovel": "zirconium shovel",
+  "item.unusual-ideas.zirconium_hoe": "zirconium hoe",
+  "item.unusual-ideas.zirconium_helmet": "zirconium helmet",
+  "item.unusual-ideas.zirconium_chestplate": "zirconium chestplate",
+  "item.unusual-ideas.zirconium_leggings": "zirconium leggings",
+  "item.unusual-ideas.zirconium_boots": "zirconium boots",
+  "item.unusual-ideas.titanium_ingot": "titanium ingot",
+  "item.unusual-ideas.raw_titanium": "raw titanium",
+  "item.unusual-ideas.titanium_pickaxe": "titanium pickaxe",
+  "item.unusual-ideas.titanium_sword": "titanium sword",
+  "item.unusual-ideas.titanium_axe": "titanium axe",
+  "item.unusual-ideas.titanium_shovel": "titanium shovel",
+  "item.unusual-ideas.titanium_hoe": "titanium hoe",
+  "item.unusual-ideas.titanium_helmet": "titanium helmet",
+  "item.unusual-ideas.titanium_chestplate": "titanium chestplate",
+  "item.unusual-ideas.titanium_leggings": "titanium leggings",
+  "item.unusual-ideas.titanium_boots": "titanium boots",
+
+  "block.unusual-ideas.titanium_block": "titanium block",
+  "block.unusual-ideas.raw_titanium_block": "raw titanium block",
+  "block.unusual-ideas.titanium_ore": "titanium ore",
+  "block.unusual-ideas.deepslate_titanium_ore": "deepslate titanium ore",
+  "block.unusual-ideas.zirconium_block": "zirconium block",
+  "block.unusual-ideas.zirconium_ore": "zirconium ore",
+  "block.unusual-ideas.deepslate_zirconium_ore": "deepslate zirconium ore",
+
+  "enchantment.unusual-ideas.frost_enchantment": "frost",
+
+  "itemGroup.unusualIdeas": "Unusual things"
+}
