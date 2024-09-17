@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "key": {
+    "#": {
+      "item": "minecraft:dandelion"
+    },
+    "$": {
+      "item": "minecraft:paper"
+    },
+    "&": {
+      "item": "minecraft:poppy"
+    },
+    "!": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "pattern": [
+    "#&!",
+    "$  ",
+    "   "
+  ],
+  "result": {
+    "item": "unusual-ideas:ibuprofen"
+  }
+}

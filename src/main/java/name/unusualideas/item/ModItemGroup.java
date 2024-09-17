@@ -49,7 +49,12 @@ public class ModItemGroup {
                             entries.add(ModItems.TITANIUM_SHOVEL);
                             entries.add(ModItems.TITANIUM_HOE);
 
-                            entries.add(ModItems.RANDOM_STICK);
+                            entries.add(ModItems.RANDOM_ENTITIES_STICK);
+
+                            entries.add(ModItems.IBUPROFEN);
+                            entries.add(ModItems.ABOXOFIBUPROFEN);
+
+                            entries.add(ModItems.CONCENTRATEDCOAL);
                         })
                         .build());
     }

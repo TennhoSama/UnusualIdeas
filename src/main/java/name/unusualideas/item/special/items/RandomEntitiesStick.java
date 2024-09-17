@@ -1,4 +1,4 @@
-package name.unusualideas.item.special;
+package name.unusualideas.item.special.items;
 
 import net.minecraft.entity.*;
 import net.minecraft.entity.boss.WitherEntity;

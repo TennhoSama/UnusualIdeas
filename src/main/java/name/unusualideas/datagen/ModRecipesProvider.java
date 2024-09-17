@@ -6,6 +6,7 @@ import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricRecipeProvider;
 import net.minecraft.data.server.recipe.RecipeExporter;
 import net.minecraft.item.ItemConvertible;
+import net.minecraft.item.Items;
 import net.minecraft.recipe.book.RecipeCategory;
 
 import java.util.List;
@@ -27,6 +28,10 @@ public class ModRecipesProvider extends FabricRecipeProvider {
                 RecipeCategory.BUILDING_BLOCKS, ModBlocks.TITANIUM_BLOCK);
         offerReversibleCompactingRecipes(exporter, RecipeCategory.MISC, ModItems.RAW_TITANIUM,
                 RecipeCategory.BUILDING_BLOCKS, ModBlocks.RAW_TITANIUM_BLOCK);
+        offerReversibleCompactingRecipes(exporter, RecipeCategory.MISC, ModItems.IBUPROFEN,
+                RecipeCategory.FOOD, ModItems.ABOXOFIBUPROFEN);
+        offerReversibleCompactingRecipes(exporter, RecipeCategory.MISC, Items.COAL,
+                RecipeCategory.MISC, ModItems.CONCENTRATEDCOAL);
 
         offerSmelting(exporter, SmeltingZirconium, RecipeCategory.MISC, ModItems.ZIRCONIUM, 1.5f, 200, "zirconium");
         offerBlasting(exporter, SmeltingZirconium, RecipeCategory.MISC, ModItems.ZIRCONIUM, 2.0f, 100, "zirconium");

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    {
+      "item": "unusual-ideas:a_box_of_ibuprofen"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "unusual-ideas:ibuprofen"
+  }
+}

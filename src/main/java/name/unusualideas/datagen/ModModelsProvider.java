@@ -56,5 +56,9 @@ public class ModModelsProvider extends FabricModelProvider {
         itemModelGenerator.registerArmor((ArmorItem) ModItems.TITANIUM_LEGGINGS);
         itemModelGenerator.registerArmor((ArmorItem) ModItems.TITANIUM_BOOTS);
 
+        itemModelGenerator.register(ModItems.RANDOM_ENTITIES_STICK, Models.GENERATED);
+        itemModelGenerator.register(ModItems.IBUPROFEN, Models.GENERATED);
+        itemModelGenerator.register(ModItems.ABOXOFIBUPROFEN, Models.GENERATED);
+
     }
 }

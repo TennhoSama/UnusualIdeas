@@ -1,5 +1,6 @@
 # Tennho's unusual ideas
 ###### TennhoSama's unusual but interesting ideas
+###### v 1. *. *
 _The first time to make a mod ,if there is a problem with the mod, please feel free to point it out, thanks_
 ##### And...my English is not very well...... 
 _Please be more tolerant_ : )

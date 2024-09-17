@@ -6,6 +6,7 @@ import name.unusualideas.item.ModItemGroup;
 import name.unusualideas.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
+import net.fabricmc.fabric.api.registry.FuelRegistry;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -25,5 +26,8 @@ public class UnusualIdeas implements ModInitializer {
 		ModItemGroup.registerModItemGroup();
 		ModEnchantments.registerModEnchantment();
 		ModBlocks.registerModBlocks();
+
+		//燃料注册
+		FuelRegistry.INSTANCE.add(ModItems.CONCENTRATEDCOAL, 1750);
 	}
 }
